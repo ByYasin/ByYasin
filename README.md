@@ -37,6 +37,7 @@
 
 ## 📬 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/ByYasin)  
+[![İnstagram](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://instagram.com/in/ysn.knl)  
 
 ---
 
