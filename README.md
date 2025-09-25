@@ -35,9 +35,9 @@
 
 ---
 
-## 📬 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/ByYasin)  
-[![İnstagram](https://img.shields.io/badge/-İnstagram-0077B5?logo=linkedin&logoColor=white)](https://instagram.com/ysn.knl)  
+## 📬 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/ByYasin)  
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/ysn.knl)
 
 ---
 
