@@ -16,8 +16,7 @@
 ## 📊 My GitHub Stats  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ByYasin&layout=compact&theme=radical)  
-![trophy](https://github-profile-trophy.vercel.app/?username=ByYasin&theme=radical&no-frame=true&margin-w=5&margin-h=5)
-
+![Profile Views](https://komarev.com/ghpvc/?username=ByYasin&color=blueviolet&style=for-the-badge)
 
 ---
 
