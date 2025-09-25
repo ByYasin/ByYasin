@@ -16,7 +16,7 @@
 ## 📊 My GitHub Stats  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ByYasin&layout=compact&theme=radical)  
-![Spotify](https://novatorem.vercel.app/api/spotify)
+![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ByYasin&theme=radical)
 
 ---
 
