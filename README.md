@@ -15,8 +15,9 @@
 
 ## 📊 My GitHub Stats  
 
-![Yasin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ByYasin&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ByYasin&layout=compact&theme=radical)  
+![trophy](https://github-profile-trophy.vercel.app/?username=ByYasin&theme=radical&no-frame=true&margin-w=5&margin-h=5)
+
 
 ---
 
