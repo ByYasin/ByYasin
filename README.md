@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Yasin  
 
-🚀 **Full Stack Developer** | 💻 Problem Solver | 🌍 Lifelong Learner  
+🚀 **Full Stack Dev** | 💻 Problem Solver | 🌍 Lifelong Learner  
 
 ---
 
@@ -16,13 +16,6 @@
 ## 📊 My GitHub Stats  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ByYasin&layout=compact&theme=radical)  
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-</p>
-
 
 ---
 
@@ -32,7 +25,7 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)  ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white)  ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)  ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)  
 
 **Backend:**  
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white)  ![PhalconPHP](https://img.shields.io/badge/-PhalconPHP-00A99D?logo=php&logoColor=white)  ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)  ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)  ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?logo=ruby&logoColor=white)  ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)  
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white)  ![PhalconPHP](https://img.shields.io/badge/-PhalconPHP-00A99D?logo=php&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)  ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?logo=ruby&logoColor=white)  ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)  
 
 **Mobile:**  
 ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=black)  ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)  ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white)  
