@@ -23,8 +23,7 @@
 ## 🚀 Tech Stack  
 
 **Frontend:**  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)  
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white)  
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)  ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white)  
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)  
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
