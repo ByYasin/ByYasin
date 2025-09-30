@@ -12,11 +12,9 @@
 - 🎯 Goal: Creating **clean, reusable, and efficient codebases**.  
 
 ---
-
 ## 📊 My GitHub Stats  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ByYasin&layout=compact&theme=radical)  
-
 ---
 
 ## 🚀 Tech Stack  
