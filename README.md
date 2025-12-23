@@ -38,7 +38,6 @@
 
 ## 📬 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/yasin-kınalı-9671b0255/)  
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/ysn.knl)
 
 ---
 
