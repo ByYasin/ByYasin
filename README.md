@@ -4,12 +4,12 @@
 
 ---
 
-## 🧑‍💻 About Me  
-- 🌐 I'm a passionate **Full Stack Developer** with strong experience in **Frontend, Backend & Mobile**.  
-- 🛠 Skilled in **Laravel, Vue.js, React, TailwindCSS, MySQL, Node.js, Next.js, Flutter, React Native** and more.  
-- 🔍 I enjoy solving complex problems and building scalable, modern applications.  
-- 📚 Always exploring new technologies to stay ahead of the curve.  
-- 🎯 Goal: Creating **clean, reusable, and efficient codebases**.  
+## About Me  
+- I'm a passionate **Full Stack Developer** with strong experience in **Frontend, Backend & Mobile**.  
+- Skilled in **Laravel, Vue.js, React, TailwindCSS, MySQL, Node.js, Next.js, Flutter, React Native** and more.  
+- I enjoy solving complex problems and building scalable, modern applications.  
+- Always exploring new technologies to stay ahead of the curve.  
+- Goal: Creating **clean, reusable, and efficient codebases**.  
 
 ---
 ## 📊 My GitHub Stats  
