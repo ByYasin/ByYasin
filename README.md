@@ -1,5 +1,3 @@
-# 👋 Hi there, I'm Yasin  
-
 🚀 **Full Stack Dev** | 💻 Problem Solver | 🌍 Lifelong Learner  
 
 ---
