@@ -1,4 +1,4 @@
-🚀 **Full Stack Dev** | 💻 Problem Solver | 🌍 Lifelong Learner  
+**Full Stack Dev** | 💻 Problem Solver | 🌍 Lifelong Learner  
 
 ---
 
@@ -15,7 +15,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ByYasin&layout=compact&theme=radical)  
 ---
 
-## 🚀 Tech Stack  
+## Tech Stack  
 
 **Frontend:**  
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white)  ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)   ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)  
@@ -33,7 +33,7 @@
 
 ---
 
-## 📬 Connect with Me  
+## Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/yasin-kınalı-9671b0255/)  
 
 ---
